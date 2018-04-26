@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.Tests.deps.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.Tests.runtimeconfig.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.Tests.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.Tests.pdb
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/bin/Debug/netcoreapp1.1/SortingAlg.pdb
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/obj/Debug/netcoreapp1.1/SortingAlg.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/obj/Debug/netcoreapp1.1/SortingAlg.Tests.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg.Tests/obj/Debug/netcoreapp1.1/SortingAlg.Tests.pdb

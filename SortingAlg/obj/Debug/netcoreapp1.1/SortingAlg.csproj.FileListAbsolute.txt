@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/bin/Debug/netcoreapp1.1/SortingAlg.deps.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/bin/Debug/netcoreapp1.1/SortingAlg.runtimeconfig.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/bin/Debug/netcoreapp1.1/SortingAlg.runtimeconfig.dev.json
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/bin/Debug/netcoreapp1.1/SortingAlg.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/bin/Debug/netcoreapp1.1/SortingAlg.pdb
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/obj/Debug/netcoreapp1.1/SortingAlg.AssemblyInfo.cs
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/obj/Debug/netcoreapp1.1/SortingAlg.dll
+/Users/Guest/Desktop/SortingAlg.Solution/SortingAlg/obj/Debug/netcoreapp1.1/SortingAlg.pdb
