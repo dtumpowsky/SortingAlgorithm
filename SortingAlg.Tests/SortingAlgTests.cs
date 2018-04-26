@@ -9,16 +9,26 @@ namespace SortingAlg.Tests
     [TestMethod]
     public void SortTwoElements_True()
     {
+      int[] expectedArray = new int[] {1,7};
       int[] UnsortedArray = new int[] {7,1};
       SortingAlg testSortingAlg = new SortingAlg();
-      Assert.AreEqual(true, testSortingAlg.SortArray(UnsortedArray));
+      CollectionAssert.AreEqual(expectedArray, testSortingAlg.SortArray(UnsortedArray));
     }
     [TestMethod]
     public void SortThreeElements_True()
     {
+      int[] expectedArray = new int[] {1,3,7};
       int[] UnsortedArray = new int[] {7,3,1};
       SortingAlg testSortingAlg = new SortingAlg();
-      Assert.AreEqual(true, testSortingAlg.SortArray(UnsortedArray));
+      CollectionAssert.AreEqual(expectedArray, testSortingAlg.SortArray(UnsortedArray));
+    }
+    [TestMethod]
+    public void SortFiveElements_True()
+    {
+      int[] expectedArray = new int[] {1,4,5,6,7};
+      int[] UnsortedArray = new int[] {7,6,5,4,1};
+      SortingAlg testSortingAlg = new SortingAlg();
+      CollectionAssert.AreEqual(expectedArray, testSortingAlg.SortArray(UnsortedArray));
     }
 
   }
