@@ -30,6 +30,14 @@ namespace SortingAlg.Tests
       SortingAlg testSortingAlg = new SortingAlg();
       CollectionAssert.AreEqual(expectedArray, testSortingAlg.SortArray(UnsortedArray));
     }
+    [TestMethod]
+    public void SortManyElements_True()
+    {
+      int[] expectedArray = new int[] {0,1,2,2,3,4,5,7,9,12,15,16,19,19,21,22,24,29,34,37};
+      int[] UnsortedArray = new int[] {37,15,2,4,9,1,2,3,7,12,19,29,24,22,5,21,19,0,34,16};
+      SortingAlg testSortingAlg = new SortingAlg();
+      CollectionAssert.AreEqual(expectedArray, testSortingAlg.SortArray(UnsortedArray));
+    }
 
   }
 }
